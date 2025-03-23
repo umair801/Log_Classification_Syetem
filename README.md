@@ -23,7 +23,6 @@ This project implements a **hybrid log classification system**, combining multip
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/umair801/Log_Classification_Syetem.git
-cd Log_Classification_Syetem
 ```
 
 ### 2️⃣ Install Dependencies  
